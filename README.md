@@ -1,203 +1,71 @@
-<div align="center">
+<p align="center">
 
-# Hi 👋, I'm Hamid Iqbal
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,2,24,30&text=HAMID%20IQBAL&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Security%20Engineer%20|%20SOC%20|%20DFIR%20|%20AI%20Security&descAlignY=68"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=0867F9&center=true&vCenter=true&width=700&lines=Cyber+Security+Engineer;SOC+Analyst;Digital+Forensics+Enthusiast;Threat+Hunter;Python+Developer;AI+Security+Researcher" />
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2500&pause=800&color=4DA6FF&center=true&vCenter=true&width=900&lines=Cyber+Security+Engineer;SOC+Analyst;Threat+Hunter;Digital+Forensics;Detection+Engineering;Python+Developer;AI+Security+Researcher"/>
+
+</p>
 
 ---
 
-### Cyber Security Engineer | SOC | DFIR | AI Security
+<div align="center">
 
-<p>
-Building practical cybersecurity solutions through detection engineering, digital forensics, AI-powered security, and offensive security research.
-</p>
+<a href="https://github.com/Hamid-01">
+<img src="https://img.shields.io/badge/GitHub-Hamid--01-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Hamid-01&label=Profile%20Views&color=0867F9&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/hamidiqbal-cyber/">
+<img src="https://img.shields.io/badge/LinkedIn-Hamid%20Iqbal-0867F9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hamidiqbal.cyber@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 💻 Terminal
+# SYSTEM STATUS
 
-```bash
-hamid@github:~$ whoami
-
-Hamid Iqbal
-
-----------------------------------
-
-hamid@github:~$ cat education.txt
-
-BS Cyber Security & Digital Forensics
-CGPA: 3.87
-
-----------------------------------
-
-hamid@github:~$ cat current_role.txt
-
-Cyber Security Engineer
-
-----------------------------------
-
-hamid@github:~$ cat focus.txt
-
-SOC Operations
-Threat Hunting
-Digital Forensics
-AI Security
-Python Automation
-
-----------------------------------
-
-hamid@github:~$ status
-
-Open To Work
-
-█
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ USER                : Hamid Iqbal                           │
+│ ROLE                : Cyber Security Engineer               │
+│ LOCATION            : Pakistan                              │
+│ EDUCATION           : BS Cyber Security & Digital Forensics │
+│ SPECIALIZATION      : SOC | DFIR | Threat Hunting           │
+│ CURRENT FOCUS       : Detection Engineering                 │
+│ STATUS              : Open To Work                          │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🚀 About Me
+# WHOAMI
 
-- 🎓 BS Cyber Security & Digital Forensics
-- 🛡 SOC Analyst
-- 🔍 Digital Forensics Enthusiast
-- 🧠 AI Powered Security Research
-- 🐍 Python Developer
-- ☁ Learning Detection Engineering
-- 🌍 Based in Pakistan
+```bash
+hamid@security:~$ whoami
 
----
+Hamid Iqbal
 
-# ⚙ Tech Stack
-
-## Programming
-
-![Python](https://skillicons.dev/icons?i=python)
-
-![cpp](https://skillicons.dev/icons?i=cpp)
-
-![mysql](https://skillicons.dev/icons?i=mysql)
+Cyber Security Engineer focused on building practical
+security solutions through SOC Operations, Digital
+Forensics, Detection Engineering, AI-powered Security,
+Threat Hunting and Python Automation.
+```
 
 ---
 
-## Operating Systems
-
-![Linux](https://skillicons.dev/icons?i=linux)
-
-![Kali](https://skillicons.dev/icons?i=linux)
-
----
-
-## Development
-
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-
-![Git](https://skillicons.dev/icons?i=git)
-
-![Github](https://skillicons.dev/icons?i=github)
-
-![Docker](https://skillicons.dev/icons?i=docker)
-
----
-
-## Cybersecurity
-
-• Wazuh
-
-• Burp Suite
-
-• Wireshark
-
-• Autopsy
-
-• Nmap
-
-• Nessus
-
-• Apache Kafka
-
-• TryHackMe
-
-• Kali Linux
-
----
-
-## AI & Computer Vision
-
-YOLO
-
-DeepFace
-
-InsightFace
-
-TensorFlow
-
-PyTorch
-
-OpenCV
-
----
-
-# 🚀 Featured Projects
-
-🛡 FaceTrace AI
-
-AI Powered Suspect Identification using Computer Vision
-
----
-
-⚡ Real-Time Ransomware Detection
-
-Kafka + Python based monitoring system
-
----
-
-🛡 Wazuh SIEM Deployment
-
-SOC Monitoring & File Integrity Monitoring
-
----
-
-🔐 AES Encryption
-
-Python implementation
-
----
-
-🎯 Live Phishing Simulation
-
-Security Awareness Lab
-
----
-
-# 📜 Certifications
-
-✔ CEH
-
-✔ SQL Injection
-
-✔ Defensive Security
-
-✔ OSINT
-
-✔ Python
-
-✔ DFIR
-
-✔ SOC
-
----
-
-# 📈 GitHub Analytics
+# TECH STACK
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hamid-01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,docker,fastapi,linux,mysql,vscode&perline=9"/>
 
 </p>
 
@@ -205,36 +73,20 @@ Security Awareness Lab
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid-01&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamid-01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophy
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Hamid-01&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://streak-stats.demolab.com?user=Hamid-01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+<p align="center">
 
-# 📫 Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamid-01&theme=tokyo-night&hide_border=true"/>
 
-📧 hamidiqbal.cyber@gmail.com
-
-💼 LinkedIn
-
-🌐 Portfolio (Coming Soon)
-
----
-
-<div align="center">
-
-> Think like an attacker.
->
-> Defend like an engineer.
-
-</div>
+</p>
