@@ -160,7 +160,7 @@ I am a passionate and results-driven **SOC Analyst** and **Cybersecurity Enginee
 I'm always open to discussing cybersecurity, collaborating on projects, or exploring new opportunities. Feel free to reach out!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamid-iqbal-7a8589246/">
+  <a href="https://www.linkedin.com/in/hamidiqbal-cyber/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="mailto:hamidqbal.cyber@gmail.com">
