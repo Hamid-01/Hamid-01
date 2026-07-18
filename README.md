@@ -19,7 +19,7 @@
 
 <br/>
 
-
+```text
 ╔═════════════════════════════════════════════════════════════════╗
 ║                         SYSTEM STATUS                           ║
 ╠═════════════════════════════════════════════════════════════════╣
@@ -33,7 +33,7 @@
 ║ STATUS              : 🟢 Open to Work                          ║
 ╚═════════════════════════════════════════════════════════════════╝
 
-
+```
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamid-01&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=00ff00" alt="Status"/>
