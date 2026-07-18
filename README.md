@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hamid+Iqbal;SOC+Analyst;Cyber+Security+Engineer;Threat+Hunter;DFIR+Specialist" alt="Typing SVG" />
+  <h1>Hamid Iqbal</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=SOC+Analyst;Cyber+Security+Engineer;Threat+Hunter;DFIR+Specialist;Penetration+Tester;Bug+Hunter;Vulnerability+Assessment+Expert" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,9 +15,6 @@
   <a href="https://github.com/Hamid-01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://tryhackme.com/p/HamidIqbal">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
 </div>
 
 <br/>
@@ -28,7 +26,7 @@
 ║ USER                : Hamid Iqbal                              ║
 ║ ROLE                : SOC Analyst | Cybersecurity Engineer    ║
 ║ LOCATION            : Bahawalpur, Pakistan                    ║
-║ EDUCATION           : BSc. Cyber Security & Digital Forensics ║
+║ EDUCATION           : BS Cyber Security & Digital Forensics ║
 ║ GPA                 : 3.87 / 4.0                              ║
 ║ SPECIALIZATION      : Detection Engineering | Threat Hunting  ║
 ║ CERTIFICATIONS      : CEH | SQL Injection | OSINT            ║
@@ -57,6 +55,7 @@ I am a passionate and results-driven **SOC Analyst** and **Cybersecurity Enginee
     <td>
       <ul>
         <li>🛡️ <strong>What I Do:</strong> Security Operations (SOC), Digital Forensics (DFIR), and Threat Hunting</li>
+        <li>🔍 <strong>Specialties:</strong> Penetration Testing, Bug Hunting, Vulnerability Assessment</li>
         <li>🤖 <strong>My Approach:</strong> Automation and innovation in security</li>
         <li>🎯 <strong>My Goal:</strong> Bridging research and enterprise security</li>
         <li>🔐 <strong>Motto:</strong> "Security is not a product, it's a process"</li>
@@ -170,9 +169,6 @@ I'm always open to discussing cybersecurity, collaborating on projects, or explo
   <a href="https://github.com/Hamid-01">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://tryhackme.com/p/HamidIqbal">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117" />
-  </a>
 </div>
 
 <br/>
@@ -186,4 +182,3 @@ I'm always open to discussing cybersecurity, collaborating on projects, or explo
 ![Visitor Count](https://komarev.com/ghpvc/?username=Hamid-01&label=PROFILE%20VIEWS&color=00ff00&style=for-the-badge)
 
 </div>
-```
