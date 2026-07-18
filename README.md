@@ -6,7 +6,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hamid-iqbal-7a8589246/">
+  <a href="https://www.linkedin.com/in/hamidiqbal-cyber">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hamidqbal.cyber@gmail.com">
@@ -19,20 +19,20 @@
 
 <br/>
 
-```text
+
 ╔═════════════════════════════════════════════════════════════════╗
-║                         SYSTEM STATUS                          ║
+║                         SYSTEM STATUS                           ║
 ╠═════════════════════════════════════════════════════════════════╣
-║ USER                : Hamid Iqbal                              ║
-║ ROLE                : SOC Analyst | Cybersecurity Engineer    ║
-║ LOCATION            : Bahawalpur, Pakistan                    ║
-║ EDUCATION           : BS Cyber Security & Digital Forensics ║
-║ GPA                 : 3.87 / 4.0                              ║
-║ SPECIALIZATION      : Detection Engineering | Threat Hunting  ║
-║ CERTIFICATIONS      : CEH | SQL Injection | OSINT            ║
-║ STATUS              : 🟢 Open to Work                        ║
+║ USER                : Hamid Iqbal                               ║
+║ ROLE                : SOC Analyst | Cybersecurity Engineer      ║
+║ LOCATION            : Bahawalpur, Pakistan                      ║
+║ EDUCATION           : BS Cyber Security & Digital Forensics     ║
+║ GPA                 : 3.87 / 4.0                                ║
+║ SPECIALIZATION      : Detection Engineering | Threat Hunting    ║
+║ CERTIFICATIONS      : CEH | SQL Injection | OSINT               ║
+║ STATUS              : 🟢 Open to Work                          ║
 ╚═════════════════════════════════════════════════════════════════╝
-```
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hamid-01&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
