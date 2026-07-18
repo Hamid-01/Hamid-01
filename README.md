@@ -1,78 +1,80 @@
-<h1 align="center">Hello, I'm Hamid Iqbal 👋</h1>
+  </a>
+  <a href="https://tryhackme.com/p/HamidIqbal">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamid-iqbal-7a8589246/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hamidqbal.cyber@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Hamid-01"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
 ```text
-┌─────────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS                                                  │
-├─────────────────────────────────────────────────────────────────┤
-│ USER                : Hamid Iqbal                              │
-│ ROLE                : SOC Analyst | Cybersecurity Engineer    │
-│ LOCATION            : Bahawalpur, Pakistan                    │
-│ EDUCATION           : BSc. Cyber Security & Digital Forensics │
-│ GPA                 : 3.87 / 4.0                              │
-│ SPECIALIZATION      : Detection Engineering | Threat Hunting  │
-│ CERTIFICATIONS      : CEH | SQL Injection | OSINT            │
-│ STATUS              : Open to Work                            │
-└─────────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║                         SYSTEM STATUS                          ║
+╠═════════════════════════════════════════════════════════════════╣
+║ USER                : Hamid Iqbal                              ║
+║ ROLE                : SOC Analyst | Cybersecurity Engineer    ║
+║ LOCATION            : Bahawalpur, Pakistan                    ║
+║ EDUCATION           : BSc. Cyber Security & Digital Forensics ║
+║ GPA                 : 3.87 / 4.0                              ║
+║ SPECIALIZATION      : Detection Engineering | Threat Hunting  ║
+║ CERTIFICATIONS      : CEH | SQL Injection | OSINT            ║
+║ STATUS              : 🟢 Open to Work                        ║
+╚═════════════════════════════════════════════════════════════════╝
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Hamid-01&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=00ff00" alt="Status"/> </div>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+"Transforming complex security challenges into robust, automated solutions"
 
-👨‍💻 About Me
-I am a passionate and results-driven SOC Analyst and Cybersecurity Engineer with a strong academic foundation and hands-on experience in defending digital infrastructures. My core mission is to transform complex security challenges into robust, automated solutions.
+I am a passionate and results-driven SOC Analyst and Cybersecurity Engineer with a strong academic foundation and hands-on experience in defending digital infrastructures.
 
-🛡️ What I Do: I specialize in Security Operations (SOC), Digital Forensics (DFIR), and proactive Threat Hunting. I leverage my deep understanding of networks, systems, and adversarial tactics to detect, analyze, and neutralize threats.
-
-🤖 My Approach: I believe in the power of automation and innovation. I build AI-powered security tools and streamline detection engineering to make security proactive, not reactive.
-
-🎯 My Goal: To secure the digital world by bridging the gap between cutting-edge research and practical, enterprise-ready security implementations.
-
+<table> <tr> <td> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FzZ2l2d2czdml4amE0b3VpZmF6dHZuNTl1cTBnczFpdnJzOW9rZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE6G3o8q7i6C6fG/giphy.gif" width="200"/> </td> <td> <ul> <li>🛡️ <strong>What I Do:</strong> Security Operations (SOC), Digital Forensics (DFIR), and Threat Hunting</li> <li>🤖 <strong>My Approach:</strong> Automation and innovation in security</li> <li>🎯 <strong>My Goal:</strong> Bridging research and enterprise security</li> <li>🔐 <strong>Motto:</strong> "Security is not a product, it's a process"</li> </ul> </td> </tr> </table>
 💡 Key Projects & Open-Source Work
-Here are some of the projects that showcase my skills and passion:
+<table> <tr> <td align="center"> <a href="https://github.com/Hamid-01/facetrace-ai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-01&repo=facetrace-ai&theme=radical&hide_border=true" /> </a> </td> <td align="center"> <a href="https://github.com/Hamid-01/ransomware-detection-kafka"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-01&repo=ransomware-detection-kafka&theme=radical&hide_border=true" /> </a> </td> </tr> <tr> <td align="center"> <a href="https://github.com/Hamid-01/wazuh-siem-fim"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-01&repo=wazuh-siem-fim&theme=radical&hide_border=true" /> </a> </td> <td align="center"> <a href="https://github.com/Hamid-01/phishing-simulation"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hamid-01&repo=phishing-simulation&theme=radical&hide_border=true" /> </a> </td> </tr> </table>
+🛠️ Technical Arsenal
+<div align="center">
+🖥️ Programming & Scripting
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white
 
-Project	Description	Tech Stack
-FaceTrace AI	An automated video surveillance system for suspect identification using deep learning and facial recognition.	Python, FastAPI, OpenCV, InsightFace, Deep Learning
-Ransomware Detection with Kafka	A real-time system for monitoring and alerting on ransomware activity via stream processing.	Apache Kafka, Python, Kali Linux
-Wazuh SIEM Deployment	Deployed and configured a Wazuh SIEM environment, including File Integrity Monitoring (FIM) for endpoint security.	Wazuh SIEM, VirtualBox, Linux
-Live Phishing Simulation	Created an educational phishing page clone to demonstrate credential-stealing techniques for awareness training.	WordPress, Phishing, Cybersecurity Awareness
-🛠️ Technical Skills
-I work with a diverse set of tools and technologies to solve complex security problems.
+🔒 Security Platforms & SIEM
+https://img.shields.io/badge/Wazuh-00B4D8?style=for-the-badge&logo=wazuh&logoColor=white
+https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white
+https://img.shields.io/badge/Nessus-00BFFF?style=for-the-badge&logo=tenable&logoColor=white
+https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
 
-Category	Technologies
-Programming & Scripting	Python (Advanced), C++, SQL, Bash, HTML/CSS
-Security Platforms & SIEM	Wazuh, Splunk (Basic), Log Analysis, Burp Suite, Nessus, Nmap
-Digital Forensics	Autopsy, Log Inspection, DFIR Frameworks
-Cloud & Virtualization	VirtualBox, Cisco Packet Tracer
-Operating Systems	Kali Linux, Windows, Linux Terminal
-AI/ML & Data Science	TensorFlow, PyTorch, Scikit-Learn, Pandas, OpenCV
-Databases	SQL, SQLite
-Other Tools	Wireshark, Apache Kafka, TryHackMe, Git
+🧠 AI/ML & Data Science
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+
+🐧 Operating Systems & Tools
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+
+</div>
 📜 Certifications
-CEH (Certified Ethical Hacker) - NAVTTC
-
-SQL Injection Attacks - EC Council
-
-Defensive Security and Cyber Risk - CYBRARY
-
-Introduction to OSINT - My OSINT Training
-
-Python Skill Certification - HackerRank
-
-Digital Forensics Masterclass (DFMC+ DFIR) - Udemy
-
-Learn SOC Basics - Udemy
-
-📈 GitHub Activity
-https://github-readme-stats.vercel.app/api?username=Hamid-01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-01&layout=compact&theme=radical&hide_border=true
-
-📫 Let's Connect!
+<div align="center"> <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-00BFFF?style=for-the-badge&logo=ec-council&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Injection-EC_Council-FF6600?style=for-the-badge" /> <img src="https://img.shields.io/badge/OSINT-My_OSINT_Training-00FF00?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </div>
+📈 GitHub Analytics
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hamid-01&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamid-01&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" /> </div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nZ21PSWc/giphy.gif" width="30"> Let's Connect!
 I'm always open to discussing cybersecurity, collaborating on projects, or exploring new opportunities. Feel free to reach out!
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+<div align="center"> <a href="https://www.linkedin.com/in/hamid-iqbal-7a8589246/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /> </a> <a href="mailto:hamidqbal.cyber@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /> </a> <a href="https://github.com/Hamid-01"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /> </a> <a href="https://tryhackme.com/p/HamidIqbal"> <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0D1117" /> </a> </div>
+🎯 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+text
+Python       12 hrs 30 mins  ████████████████░░░░░   78.5%
+YAML         1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   9.4%
+Markdown     1 hr            █░░░░░░░░░░░░░░░░░░░░   6.3%
+SQL          30 mins         ░░░░░░░░░░░░░░░░░░░░░   3.1%
+Bash         20 mins         ░░░░░░░░░░░░░░░░░░░░░   2.7%
+<!--END_SECTION:waka-->
+<div align="center">
+🔐 "The best way to predict the future is to create it"
+https://komarev.com/ghpvc/?username=Hamid-01&label=PROFILE%2520VIEWS&color=00ff00&style=for-the-badge
 
-<p align="center"> <i>"The only way to do great work is to love what you do." - Steve Jobs</i> </p> ```
+</div> ```
