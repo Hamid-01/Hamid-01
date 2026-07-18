@@ -19,6 +19,7 @@
 ║ CERTIFICATIONS      : CEH | SQL Injection | OSINT            ║
 ║ STATUS              : 🟢 Open to Work                        ║
 ╚═════════════════════════════════════════════════════════════════╝
+text```
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Hamid-01&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square&color=00ff00" alt="Status"/> </div>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 "Transforming complex security challenges into robust, automated solutions"
@@ -77,4 +78,4 @@ Bash         20 mins         ░░░░░░░░░░░░░░░░░
 🔐 "The best way to predict the future is to create it"
 https://komarev.com/ghpvc/?username=Hamid-01&label=PROFILE%2520VIEWS&color=00ff00&style=for-the-badge
 
-</div> ```
+</div>
